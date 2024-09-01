@@ -1,0 +1,8 @@
+production:
+  adapter: postgresql
+  database: msf_database
+  username: postgres
+  password: your_pa
+  host: localhost
+  port: 5432
+
